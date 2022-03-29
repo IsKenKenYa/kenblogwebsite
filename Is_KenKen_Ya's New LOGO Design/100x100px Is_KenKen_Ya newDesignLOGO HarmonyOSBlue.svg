@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99.9" height="99.9" viewBox="0 0 3000 3000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 250px;
+        font-family: "HarmonyOS Sans SC";
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        text-anchor: middle;
+      }
+
+      .cls-2 {
+        font-size: 500px;
+        font-family: MaoKenWangFengYaSong;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: square;
+        stroke-width: 25px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <image id="背景" width="3000" height="3000" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAA9klEQVR4nO3RMQHAIBAAsacjDvEvgrHYuCGxkLXP/YeMT0WLkBghMUJihMQIiRESIyRGSIyQGCExQmKExAiJERIjJEZIjJAYITFCYoTECIkREiMkRkiMkBghMUJihMQIiRESIyRGSIyQGCExQmKExAiJERIjJEZIjJAYITFCYoTECIkREiMkRkiMkBghMUJihMQIiRESIyRGSIyQGCExQmKExAiJERIjJEZIjJAYITFCYoTECIkREiMkRkiMkBghMUJihMQIiRESIyRGSIyQGCExQmKExAiJERIjJEZIjJAYITFCYoTECIkREiMkRkiMkBghJTPzAJs+AyF1BAn9AAAAAElFTkSuQmCC"/>
+  <text id="Is_KenKen_Ya" class="cls-1" x="1497.999" y="1818"><tspan x="1497.999">Is_KenKen_Ya</tspan></text>
+  <text id="是小啃啃呀" class="cls-2" x="1493.001" y="1500"><tspan x="1493.001">是小啃啃呀</tspan></text>
+  <path id="椭圆_1" data-name="椭圆 1" class="cls-3" d="M1696,1856m-207.18,0C1353.33,2067.14,1116.5,2207.05,847,2207.05c-420.866,0-762.046-341.18-762.046-762.05S426.134,682.954,847,682.954c269.5,0,506.33,139.9,641.82,351.046"/>
+</svg>
